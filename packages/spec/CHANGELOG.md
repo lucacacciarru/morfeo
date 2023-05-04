@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.9.3
+
+### Patch Changes
+
+- fec3234: Introduced `classNamePrefix` and `emojis` option to the build-time plugin package
+
 ## 0.9.2
 
 ### Patch Changes
