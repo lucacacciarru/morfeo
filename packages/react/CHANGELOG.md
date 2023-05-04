@@ -1,5 +1,14 @@
 # Change Log
 
+## 0.9.3
+
+### Patch Changes
+
+- fec3234: Introduced `classNamePrefix` and `emojis` option to the build-time plugin package
+- Updated dependencies [fec3234]
+  - @morfeo/hooks@0.9.3
+  - @morfeo/web@0.9.3
+
 ## 0.9.2
 
 ### Patch Changes
